@@ -2,7 +2,7 @@
 - 👀 I’m interested in programming
 - 🌱 I’m currently doing BCA and learning web devolpment
 - 💞️ I’m looking to collaborate on MERN stack projects
-- 
+
 
 <!---
 Ajay-2005/Ajay-2005 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
