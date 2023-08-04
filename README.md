@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Ajay-2005
 - 👀 I’m interested in programming
-- 🌱 I’m currently doing BCA and learning web devolpment
-- 💞️ I’m looking to collaborate on MERN stack projects
+- 🌱 I’m currently doing BCA and learning new technologies
+- 
 
 
 <!---
