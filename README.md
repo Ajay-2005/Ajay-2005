@@ -5,7 +5,7 @@ I'm  a student with skills in HTML, CSS, Python, JavaScript, Node.js, and Expres
 
 ## 🛠 Skills
 
-- **Languages:** Python, HTML, CSS, JavaScript, C
+- **Languages:** Python, HTML, CSS, JavaScript, C, Java
 - **Databases:** PostgreSQL, MongoDB
 - **Frameworks & Libraries:** Node.js, Bootstrap, Express.js, Django
 - **Tools:** Git, GitHub, Postman, npm
