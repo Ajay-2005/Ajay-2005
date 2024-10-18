@@ -12,7 +12,7 @@ I'm  a student with skills in HTML, CSS, Python, JavaScript, Node.js, and Expres
 
 ## 📫 How to reach me
 - **GitHub:** [github.com/Ajay-2005](https://github.com/Ajay-2005)
-- **LinkedIn:** [linkedin.com/in/ajay2005](https://linkedin.com/in/ajay2005)
+- **LinkedIn:**https://www.linkedin.com/in/ajay-connect
 - **Email:** aji478514@gmail.com
 
 ---
