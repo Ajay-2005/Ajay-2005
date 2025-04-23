@@ -1,18 +1,40 @@
-# Hi, I'm Ajay 👋
+# Me as Badly Coded website
 
-## 🚀 About Me
-I'm  a student with skills in HTML, CSS, Python, JavaScript, Node.js, and Express.js. I take pleasure in building and optimizing backend systems and am continuously seeking to expand my knowledge in backend development and related technologies.
+## 🌌 Homepage
+Loads perfectly… until you dive into my code. Then: `Error 503: Developer Brain Not Found`. Still working on the bug fix.
+
+## 🔍 About Me
+Witty, mysterious, and always learning.  
+I’m a backend developer who loves creating systems that work (most of the time) and constantly improving them.  
+Skills include:  
+- Building backend systems with **Node.js** that **get the job done**.
+- Overthinking code and refining solutions (sometimes making them more complex than necessary, but hey, it’s a learning process!).
+
 
 ## 🛠 Skills
 
-- **Languages:** Python,Node js, HTML, CSS, JavaScript, C, Java 
-- **Databases:** PostgreSQL, MongoDB
-- **Frameworks & Libraries:** Bootstrap, Express.js, Django
-- **Tools:** Git, GitHub, Postman, npm
+- **Languages**: Python, Node.js, HTML, CSS, JavaScript, C, Java  
+- **Databases**: PostgreSQL, MongoDB  
+- **Frameworks & Libraries**: Bootstrap, Express.js, Django  
+- **Tools**: Git, GitHub, Postman, npm
+
+## 🛒 Shopping Cart
+Full of ambitious projects, dreams and a few forgotten to-dos.  
+**Total Items Purchased**: 0  
+**Checkout Button**: “Temporarily Unavailable” 
+
+## 🎨 UI Design
+Dark mode always (because I’m a coder who loves clean aesthetics).  
+
+
+## 🧠 Backend
+Runs 24/7. Doesn’t shut down.  
+Memory usage: 97% overthinking.  
+CPU: Processing **23** imaginary arguments.  
+
 
 ## 📫 How to reach me
-- **GitHub:** [github.com/Ajay-2005](https://github.com/Ajay-2005)
-- **LinkedIn:** https://www.linkedin.com/in/ajay-connect
-- **Email:** aji478514@gmail.com
 
----
+- GitHub: [github.com/Ajay-2005](https://github.com/Ajay-2005)  
+- LinkedIn: [Ajay's LinkedIn](https://www.linkedin.com/in/ajay-connect)  
+- Email: [aji478514@gmail.com](mailto:aji478514@gmail.com)
