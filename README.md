@@ -5,7 +5,7 @@ Loads perfectly… until you dive into my code. Then: `Error 503: Developer Brai
 
 ## 🔍 About Me
 Witty, mysterious, and always learning.  
-I’m a backend developer who loves creating systems that work (most of the time) and constantly improving them.  
+I’m aspiring developer who loves creating systems that work (most of the time) and constantly improving them.  
 Skills include:  
 - Building backend systems with **Node.js** that **get the job done**.
 - Overthinking code and refining solutions (sometimes making them more complex than necessary, but hey, it’s a learning process!).
