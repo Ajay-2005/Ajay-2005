@@ -4,7 +4,7 @@
 Loads perfectly… until you dive into my code. Then: `Error 503: Developer Brain Not Found`. Still working on the bug fix.
 
 ## 🔍 About Me
-Witty, mysterious, and always learning.  
+
 I’m aspiring developer who loves creating systems that work (most of the time) and constantly improving them.  
 Skills include:  
 - Building backend systems with **Node.js** that **get the job done**.
