@@ -27,11 +27,6 @@ Full of ambitious projects, dreams and a few forgotten to-dos.
 Dark mode always (because I’m a coder who loves clean aesthetics).  
 
 
-## 🧠 Backend
-Runs 24/7. Doesn’t shut down.  
-Memory usage: 97% overthinking.  
-CPU: Processing **23** imaginary arguments.  
-
 
 ## 📫 How to reach me
 
