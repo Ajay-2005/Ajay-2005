@@ -1,7 +1,8 @@
 # Me as Badly Coded website
 
 ## 🌌 Homepage
-Loads perfectly… until you dive into my code. Then: `Error 503: Developer Brain Not Found`. Still working on the bug fix.
+
+I'm always learning and building. The site's up and running—and the code's a work in progress, just like me.
 
 ## 🔍 About Me
 
