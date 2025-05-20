@@ -31,5 +31,5 @@ Dark mode always (because I’m a coder who loves clean aesthetics).
 
 ## 📫 How to reach me
 
-- LinkedIn: [LinkedIn](https://www.linkedin.com/in/ajay-connect)  
+- LinkedIn: [in/ajay-connect](https://www.linkedin.com/in/ajay-connect)  
 - Email: [aji478514@gmail.com](mailto:aji478514@gmail.com)
