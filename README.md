@@ -12,17 +12,13 @@ Skills include:
 - Overthinking code and refining solutions (sometimes making them more complex than necessary, but hey, it’s a learning process!).
 
 ![Ajay-2005's Stats](https://github-readme-stats.vercel.app/api?username=Ajay-2005&theme=vue-dark&show_icons=true&hide_border=false&count_private=true)
+
 ## 🛠 Skills
 
 - **Languages**: Python, Node.js, HTML, CSS, JavaScript, C, Java  
 - **Databases**: PostgreSQL, MongoDB  
 - **Frameworks & Libraries**: Bootstrap, Express.js, Django  
 - **Tools**: Git, GitHub, Postman, npm
-
-## 🛒 Shopping Cart
-Full of ambitious projects, dreams and a few forgotten to-dos.  
-**Total Items Purchased**: 0  
-**Checkout Button**: “Temporarily Unavailable” 
 
 ## 🎨 UI Design
 Dark mode always (because I’m a coder who loves clean aesthetics).  
