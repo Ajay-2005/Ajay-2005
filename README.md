@@ -8,7 +8,7 @@ I'm always learning and building. The site's up and running—and the code's a w
 
 I’m aspiring developer who loves creating systems that work (most of the time) and constantly improving them.  
 Skills include:  
-- Building backend systems with **Node.js** that **get the job done**.
+- Building backend systems  that **get the job done**.
 - Overthinking code and refining solutions (sometimes making them more complex than necessary, but hey, it’s a learning process!).
 
 ![Ajay-2005's Stats](https://github-readme-stats.vercel.app/api?username=Ajay-2005&theme=vue-dark&show_icons=true&hide_border=false&count_private=true)
