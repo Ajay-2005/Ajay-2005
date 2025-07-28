@@ -11,9 +11,7 @@ Skills include:
 - Building backend systems  that **get the job done**.
 - Overthinking code and refining solutions (sometimes making them more complex than necessary, but hey, it’s a learning process!).
 
-![Ajay-2005's Stats](https://github-readme-stats.vercel.app/api?username=Ajay-2005&theme=vue-dark&show_icons=true&hide_border=false&count_private=true)
-
-## 🛠 Skills
+[See my open source contribution](https://github.com/freeCodeCamp/freeCodeCamp/commits/main/?author=Ajay-2005)
 
 - **Languages**: Python, Node.js, HTML, CSS, JavaScript, C, Java  
 - **Databases**: PostgreSQL, MongoDB  
